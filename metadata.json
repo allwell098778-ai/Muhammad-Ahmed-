@@ -1,0 +1,6 @@
+{
+  "name": "WORLD EAGLE",
+  "description": "World Eagle - Premier Global Intelligence, Market Signals, AI News & Ibadah Suite created by MUHAMMAD AHMED",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
